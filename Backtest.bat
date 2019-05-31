@@ -1,0 +1,2 @@
+node .\backtest.js
+pause
